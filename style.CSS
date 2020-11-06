@@ -1,0 +1,10 @@
+.ORIGAMI{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        background-color: aqua;
+
+
+}
+h1{display: flex;
+    justify-content: space-evenly;}
